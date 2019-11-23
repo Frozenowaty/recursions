@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23aba572-ca1a-4f81-9611-629df5470ec3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/binarycalculator/CalcBinDecMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/binarycalculator/NumbersConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/bubblesort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/bubblesort/BubbleSortMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/bubblesort/TableUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/firstnumbers/FirstMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/firstnumbers/FirstUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/rabbits/FibCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/rabbits/RabFib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/recursion/Pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/recursion/PowMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/refTypes/RefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/stopczas/StoperMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/stopczas/Stopwatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/English.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Germany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Polish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Russian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/drawing/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/drawing/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/drawing/RectangularTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/drawing/RectangularTriangle.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Projekty/HelloWorldGradle" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1RO9du3Fdk3CT7mb1Ptv6Lu8e8D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/kod_weekend1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Projekty.gitowo.Drawable.src.jezykowo" />
+      <recent name="holidays" />
+      <recent name="shopobj" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle" />
+      <command value="mvn" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StoperMain">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="marynazyk.App" />
+      <module name="Java - wprowadzenie" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="marynazyk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSortMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="bubblesort.BubbleSortMain" />
+      <module name="Java - wprowadzenie" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bubblesort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="firstnumbers.FirstMain" />
+      <module name="Java - wprowadzenie" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstnumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="recursion.PowMain" />
+      <module name="Java - wprowadzenie" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabFib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rabbits.RabFib" />
+      <module name="Java - wprowadzenie" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rabbits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoperMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="stopczas.StoperMain" />
+      <module name="Java - wprowadzenie" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stopczas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="taskscals.CalcMain" />
+      <module name="Java - wprowadzenie" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StoperMain" />
+        <item itemvalue="Application.BubbleSortMain" />
+        <item itemvalue="Application.FirstMain" />
+        <item itemvalue="Application.RabFib" />
+        <item itemvalue="Application.PowMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23aba572-ca1a-4f81-9611-629df5470ec3" name="Default Changelist" comment="" />
+      <created>1569527366391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569527366391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
