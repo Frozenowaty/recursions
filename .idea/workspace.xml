@@ -22,6 +22,7 @@
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/listimpl/LinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/listimpl/ListMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/listimpl/ListUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/listimpl/Node.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/rabbits/FibCounter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/rabbits/RabFib.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/recursion/Pow.java" afterDir="false" />
@@ -35,7 +36,6 @@
       <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Polish.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Russian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projekty/HelloWorldGradle" beforeDir="false" afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/drawing/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/drawing/Rectangle.java" afterDir="false" />
