@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23aba572-ca1a-4f81-9611-629df5470ec3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LottoWyniki.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/binarycalculator/CalcBinDecMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/binarycalculator/NumbersConverter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/bubblesort/BubbleSort.java" afterDir="false" />
@@ -23,6 +24,7 @@
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/listimpl/ListMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/listimpl/ListUtilities.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/listimpl/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/lotto/LottoMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/rabbits/FibCounter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/rabbits/RabFib.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/recursion/Pow.java" afterDir="false" />
@@ -30,6 +32,7 @@
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/refTypes/RefMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/stopczas/StoperMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/stopczas/Stopwatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/taskscals/Dividable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/English.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Germany.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/gitowo/Drawable/src/jezykowo/Language.java" afterDir="false" />
@@ -72,7 +75,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -116,15 +119,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSortMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Dividable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="bubblesort.BubbleSortMain" />
+      <option name="MAIN_CLASS_NAME" value="taskscals.Dividable" />
       <module name="Java - wprowadzenie" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bubblesort.*" />
+          <option name="PATTERN" value="taskscals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,15 +135,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FilesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="firstnumbers.FirstMain" />
+      <option name="MAIN_CLASS_NAME" value="files.FilesMain" />
       <module name="Java - wprowadzenie" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firstnumbers.*" />
+          <option name="PATTERN" value="files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,15 +183,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StoperMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LottoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="stopczas.StoperMain" />
+      <option name="MAIN_CLASS_NAME" value="lotto.LottoMain" />
       <module name="Java - wprowadzenie" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Projects/production/Java - wprowadzenie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stopczas.*" />
+          <option name="PATTERN" value="lotto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,10 +222,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ListMain" />
+        <item itemvalue="Application.Dividable" />
+        <item itemvalue="Application.LottoMain" />
+        <item itemvalue="Application.FilesMain" />
         <item itemvalue="Application.GameMain" />
-        <item itemvalue="Application.StoperMain" />
-        <item itemvalue="Application.BubbleSortMain" />
-        <item itemvalue="Application.FirstMain" />
       </list>
     </recent_temporary>
   </component>
