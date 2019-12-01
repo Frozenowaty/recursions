@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23aba572-ca1a-4f81-9611-629df5470ec3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LottoWyniki.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/binarycalculator/CalcBinDecMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/binarycalculator/NumbersConverter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projekty/HelloWorldGradle/src/bubblesort/BubbleSort.java" afterDir="false" />
